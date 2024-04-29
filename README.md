@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samuel Brookman =======================================================================================================================================  
 I’m an aspiring professional Graphics Programmer with a keen interest in rendering high-fidelity, photo-realistic graphics in real-time applications. I have extensive experience writing C++ and using graphics APIs such as OpenGL and,  on a more amateur level, Vulkan, although I intend to invest a lot more time into DirectX/Vulkan in the near future. I also enjoy bringing high quality graphics rendering to the web with TypeScript and WebGL.
-* 🌍  I'm based in Bristol
+* 🌍  I'm based in the UK
 * 🖥️  See my portfolio at [MyPortfolio](http://portfolio-2024-bz5uhqereq-nw.a.run.app/)
 * ✉️  You can contact me at [sam.brookman414@hotmail.com](mailto:sam.brookman414@hotmail.com)
 * 🧠  I'm currently learning Vulkan and WebGPU
