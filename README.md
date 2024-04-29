@@ -3,7 +3,7 @@ I’m an aspiring professional Graphics Programmer with a keen interest in rende
 * 🌍  I'm based in Bristol
 * 🖥️  See my portfolio at [MyPortfolio](http://portfolio-2024-bz5uhqereq-nw.a.run.app/)
 * ✉️  You can contact me at [sam.brookman414@hotmail.com](mailto:sam.brookman414@hotmail.com)
-* 🧠  I'm learning Vulkan 
+* 🧠  I'm currently learning Vulkan and WebGPU
 
 ### Skills  
 
