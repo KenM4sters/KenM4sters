@@ -2,7 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I’m an aspiring professional Graphics Programmer with a keen interest in rendering high-fidelity, photo-realistic graphics in real-time applications. I have extensive experience writing C++ and using graphics APIs such as OpenGL and Vulkan, and also enjoy bringing high quality graphics rendering to the web with TypeScript and WebGPU.
 * 🌍  I'm based in the UK
 * 🖥️  See my portfolio at [MyPortfolio](https://webgl-portfolio-one.vercel.app/)
-* ✉️  You can contact me at [sam.brookman414@hotmail.com](mailto:sam.brookman414@hotmail.com)
 * 🧠  I'm currently learning Vulkan
 
 ### Skills  
