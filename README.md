@@ -1,4 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samuel Brookman. =======================================================================================================================================  
 I’m an aspiring professional Graphics Programmer with a keen interest in rendering high-fidelity, photo-realistic graphics in real-time applications. I have extensive experience writing C++ and using graphics APIs such as OpenGL and Vulkan, and also enjoy bringing high quality graphics rendering to the web with TypeScript and WebGPU.
 * 🌍  I'm based in the UK
 * 🖥️  See my portfolio at [MyPortfolio](https://webgl-portfolio-one.vercel.app/)
