@@ -1,4 +1,7 @@
-I’m an aspiring professional software engineer with a keen interest in rendering high-fidelity graphics in real-time applications. I have extensive experience writing C++ and using graphics APIs such as OpenGL and Vulkan, and also enjoy bringing graphics rendering to the web with TypeScript and WebGL.
+I’m an aspiring software engineer with an interest in writing performance-critical applications. 
+
+I enjoy exploring the realm of graphics rendering with vulkan and opengl, as well as developing web applications using TS.
+
 * 🌍  I'm based in the UK
 * 🖥️  See my portfolio at [MyPortfolio](https://webgl-portfolio-one.vercel.app/)
 * 🧠  I'm currently learning Vulkan
