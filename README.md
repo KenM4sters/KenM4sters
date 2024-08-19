@@ -1,10 +1,10 @@
-I’m an aspiring software engineer with an interest in writing performance-critical applications. 
+I’m an aspiring software engineer with experience writing performance-cirtical applications in C, C++ and more recently Rust, as well as developing full-stack web applications in TS. 
 
-I enjoy exploring the realm of graphics rendering with vulkan and opengl, as well as developing web applications using TS.
+I enjoy writing and testing open-source libraries to provide simplified abstractions over commonly needed functionality, with an emphasis on graphics applications. 
 
 * 🌍  I'm based in the UK
 * 🖥️  See my portfolio at [MyPortfolio](https://kenm4sters.github.io/chameleon/)
-* 🧠  I'm currently learning Vulkan
+* 🧠  I'm currently learning Rust
 
 ### Skills  
 
